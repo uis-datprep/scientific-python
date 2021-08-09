@@ -1,5 +1,5 @@
 # UiS Preparatory Course 2021
-This repository contains the materials for the second day of the DATPREP course. Solutions and more information for this day can be found [here](http://www.ux.uis.no/~trygve-e/pythonintro.html).
+This repository contains the materials for the second day of the DATPREP course. Solutions and more information for this day can be found [here](http://www.ux.uis.no/~trygve-e/pythonintro.html). All the files used in this course are included in this repository.
 
 ## Useful links from the lecture
 - [Numpy cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
