@@ -1,4 +1,4 @@
-# UiS Preparatory Course 2021 - An introduction to scientific Python
+# UiS Preparatory Course - An introduction to scientific Python
 This repository contains the materials for the second day of the DATPREP course. Solutions and more information for this day can be found [here](http://www.ux.uis.no/~trygve-e/pythonintro.html). All the files used in this course are included in this repository.
 
 ## Setting up the coding environment 
